@@ -1,0 +1,57 @@
+[
+  {
+    "attack_round": 50,
+    "horizon": 30,
+    "num_eval_points": 31,
+    "temporal_utility": 0.09016845878136201,
+    "immediate_asr": 0.19455555555555556,
+    "peak_asr": 0.30522222222222223,
+    "end_asr": 0.030666666666666665,
+    "mean_clean_acc": 0.5280483870967743,
+    "metrics_csv": "outputs/temporal_oracle_probe/attack_round_50/base_a3fl_unweighted_fedavg_cifar10_dirichlet_0.9_all-adversary_single-shot.csv"
+  },
+  {
+    "attack_round": 100,
+    "horizon": 30,
+    "num_eval_points": 31,
+    "temporal_utility": 0.06881720430107525,
+    "immediate_asr": 0.09933333333333333,
+    "peak_asr": 0.11,
+    "end_asr": 0.06066666666666667,
+    "mean_clean_acc": 0.6643258064516128,
+    "metrics_csv": "outputs/temporal_oracle_probe/attack_round_100/base_a3fl_unweighted_fedavg_cifar10_dirichlet_0.9_all-adversary_single-shot.csv"
+  },
+  {
+    "attack_round": 150,
+    "horizon": 30,
+    "num_eval_points": 31,
+    "temporal_utility": 0.09208243727598565,
+    "immediate_asr": 0.06288888888888888,
+    "peak_asr": 0.23377777777777778,
+    "end_asr": 0.06677777777777778,
+    "mean_clean_acc": 0.740625806451613,
+    "metrics_csv": "outputs/temporal_oracle_probe/attack_round_150/base_a3fl_unweighted_fedavg_cifar10_dirichlet_0.9_all-adversary_single-shot.csv"
+  },
+  {
+    "attack_round": 200,
+    "horizon": 30,
+    "num_eval_points": 31,
+    "temporal_utility": 0.07299283154121865,
+    "immediate_asr": 0.0748888888888889,
+    "peak_asr": 0.15422222222222223,
+    "end_asr": 0.1521111111111111,
+    "mean_clean_acc": 0.7935096774193549,
+    "metrics_csv": "outputs/temporal_oracle_probe/attack_round_200/base_a3fl_unweighted_fedavg_cifar10_dirichlet_0.9_all-adversary_single-shot.csv"
+  },
+  {
+    "attack_round": 250,
+    "horizon": 30,
+    "num_eval_points": 31,
+    "temporal_utility": 0.06179211469534052,
+    "immediate_asr": 0.049555555555555554,
+    "peak_asr": 0.10744444444444444,
+    "end_asr": 0.084,
+    "mean_clean_acc": 0.8260387096774192,
+    "metrics_csv": "outputs/temporal_oracle_probe/attack_round_250/base_a3fl_unweighted_fedavg_cifar10_dirichlet_0.9_all-adversary_single-shot.csv"
+  }
+]

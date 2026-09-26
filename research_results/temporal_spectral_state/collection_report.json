@@ -1,0 +1,58 @@
+{
+  "50": {
+    "scale": 3.875,
+    "probe_path": "outputs/temporal_spectral_state/round_50_client_0.pt",
+    "matched_model_maxdiff": 0.0,
+    "raw_update_tensors": 62,
+    "backdoor_gradient_tensors": 62,
+    "clean_gradient_tensors": 62
+  },
+  "100": {
+    "scale": 4.8125,
+    "probe_path": "outputs/temporal_spectral_state/round_100_client_0.pt",
+    "matched_model_maxdiff": 0.0,
+    "raw_update_tensors": 62,
+    "backdoor_gradient_tensors": 62,
+    "clean_gradient_tensors": 62
+  },
+  "150": {
+    "scale": 4.625,
+    "probe_path": "outputs/temporal_spectral_state/round_150_client_0.pt",
+    "matched_model_maxdiff": 0.0,
+    "raw_update_tensors": 62,
+    "backdoor_gradient_tensors": 62,
+    "clean_gradient_tensors": 62
+  },
+  "175": {
+    "scale": 3.96875,
+    "probe_path": "outputs/temporal_spectral_state/round_175_client_0.pt",
+    "matched_model_maxdiff": 0.0,
+    "raw_update_tensors": 62,
+    "backdoor_gradient_tensors": 62,
+    "clean_gradient_tensors": 62
+  },
+  "200": {
+    "scale": 4.25,
+    "probe_path": "outputs/temporal_spectral_state/round_200_client_0.pt",
+    "matched_model_maxdiff": 0.0,
+    "raw_update_tensors": 62,
+    "backdoor_gradient_tensors": 62,
+    "clean_gradient_tensors": 62
+  },
+  "225": {
+    "scale": 3.3125,
+    "probe_path": "outputs/temporal_spectral_state/round_225_client_0.pt",
+    "matched_model_maxdiff": 0.0,
+    "raw_update_tensors": 62,
+    "backdoor_gradient_tensors": 62,
+    "clean_gradient_tensors": 62
+  },
+  "250": {
+    "scale": 3.875,
+    "probe_path": "outputs/temporal_spectral_state/round_250_client_0.pt",
+    "matched_model_maxdiff": 0.0,
+    "raw_update_tensors": 62,
+    "backdoor_gradient_tensors": 62,
+    "clean_gradient_tensors": 62
+  }
+}

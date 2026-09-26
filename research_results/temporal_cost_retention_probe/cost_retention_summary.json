@@ -1,0 +1,35 @@
+[
+  {
+    "attack_round": 50,
+    "reachable": false,
+    "injection_cost_scale": NaN,
+    "immediate_excess_asr": NaN,
+    "retention_auc": NaN,
+    "half_life": NaN,
+    "end_excess_asr": NaN,
+    "peak_excess_asr": NaN,
+    "temporal_vulnerability": NaN
+  },
+  {
+    "attack_round": 150,
+    "reachable": false,
+    "injection_cost_scale": NaN,
+    "immediate_excess_asr": NaN,
+    "retention_auc": NaN,
+    "half_life": NaN,
+    "end_excess_asr": NaN,
+    "peak_excess_asr": NaN,
+    "temporal_vulnerability": NaN
+  },
+  {
+    "attack_round": 250,
+    "reachable": true,
+    "injection_cost_scale": 5.0,
+    "immediate_excess_asr": 0.43777777777777777,
+    "retention_auc": 0.03735194585448392,
+    "half_life": 1,
+    "end_excess_asr": 0.020555555555555556,
+    "peak_excess_asr": 0.43777777777777777,
+    "temporal_vulnerability": 0.007470389170896784
+  }
+]

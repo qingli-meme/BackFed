@@ -1,0 +1,4 @@
+attack_round,reachable,injection_cost_scale,immediate_excess_asr,retention_auc,half_life,end_excess_asr,peak_excess_asr,temporal_vulnerability
+50,False,nan,nan,nan,nan,nan,nan,nan
+150,False,nan,nan,nan,nan,nan,nan,nan
+250,True,5.0,0.43777777777777777,0.03735194585448392,1,0.020555555555555556,0.43777777777777777,0.007470389170896784

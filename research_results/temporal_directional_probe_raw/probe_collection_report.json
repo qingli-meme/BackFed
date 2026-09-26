@@ -1,0 +1,65 @@
+{
+  "rounds": {
+    "50": {
+      "source": "outputs/temporal_geometry/round_50/attack_t_probe/probe/round_50_client_0.json",
+      "rerun_state_maxdiff": 0.0
+    },
+    "100": {
+      "source": "outputs/exact_temporal_matching/round_100/matched_retention/probe/round_100_client_0.json"
+    },
+    "150": {
+      "source": "outputs/temporal_geometry/round_150/attack_t_probe/probe/round_150_client_0.json",
+      "rerun_state_maxdiff": 0.0
+    },
+    "175": {
+      "source": "outputs/exact_temporal_matching/round_175/matched_retention/probe/round_175_client_0.json"
+    },
+    "200": {
+      "source": "outputs/exact_temporal_matching/round_200/matched_retention/probe/round_200_client_0.json"
+    },
+    "225": {
+      "source": "outputs/exact_temporal_matching/round_225/matched_retention/probe/round_225_client_0.json"
+    },
+    "250": {
+      "source": "outputs/temporal_geometry/round_250/attack_t_probe/probe/round_250_client_0.json",
+      "rerun_state_maxdiff": 0.0
+    }
+  },
+  "scale_invariance": {
+    "50": {
+      "trial_count": 0,
+      "max_relative_difference": 0.0,
+      "pass": null
+    },
+    "100": {
+      "trial_count": 7,
+      "max_relative_difference": 0.0,
+      "pass": true
+    },
+    "150": {
+      "trial_count": 0,
+      "max_relative_difference": 0.0,
+      "pass": null
+    },
+    "175": {
+      "trial_count": 8,
+      "max_relative_difference": 0.0,
+      "pass": true
+    },
+    "200": {
+      "trial_count": 5,
+      "max_relative_difference": 0.0,
+      "pass": true
+    },
+    "225": {
+      "trial_count": 7,
+      "max_relative_difference": 0.0,
+      "pass": true
+    },
+    "250": {
+      "trial_count": 0,
+      "max_relative_difference": 0.0,
+      "pass": null
+    }
+  }
+}

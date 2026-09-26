@@ -1,0 +1,17 @@
+{
+  "spearman_inverse_benign_drift_vs_efficiency": 0.8214285714285715,
+  "pearson_inverse_benign_drift_vs_efficiency": 0.899208259092794,
+  "spearman_BDS_vs_efficiency": 0.7142857142857144,
+  "pearson_BDS_vs_efficiency": 0.4440829859984454,
+  "spearman_BD_gain_slope_vs_efficiency": 0.5714285714285715,
+  "pearson_BD_gain_slope_vs_efficiency": 0.7431447561563862,
+  "spearman_clean_abs_slope_vs_efficiency": -0.7142857142857144,
+  "pearson_clean_abs_slope_vs_efficiency": -0.7824070276293971,
+  "spearman_raw_local_update_norm_vs_efficiency": 0.7857142857142859,
+  "pearson_raw_local_update_norm_vs_efficiency": 0.8841762715395046,
+  "loo_log_mae_drift_only": 0.13469303862687262,
+  "loo_log_mae_drift_plus_bds": 0.09591036176311706,
+  "loo_relative_improvement_with_bds": 0.28793378825754723,
+  "spearman_BDS_vs_drift_residual": -0.1785714285714286,
+  "pearson_logBDS_vs_drift_residual": -0.3738583049882949
+}

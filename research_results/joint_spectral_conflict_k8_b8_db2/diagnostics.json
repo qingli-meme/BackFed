@@ -1,0 +1,23 @@
+{
+  "spearman_inverse_drift_vs_efficiency": 0.8214285714285715,
+  "spearman_bds_vs_efficiency": 0.7142857142857144,
+  "spearman_conflict_vs_efficiency": -0.6071428571428572,
+  "spearman_opportunity_vs_efficiency": 0.642857142857143,
+  "spearman_conflict_vs_drift_bds_residual": 0.0,
+  "loo_log_mae_drift_only": 0.13469303862687262,
+  "loo_log_mae_drift_plus_bds": 0.09591036176311706,
+  "loo_log_mae_drift_bds_conflict": 0.16913287687170422,
+  "relative_improvement_conflict_over_drift_bds": -0.7634473873577375,
+  "reversal_conflict_increasing_200_225_250": true,
+  "reversal_efficiency_decreasing_200_225_250": true,
+  "reversal_conflicts": [
+    0.004442735288808651,
+    0.00479057929777162,
+    0.011015605201517243
+  ],
+  "reversal_efficiencies": [
+    0.12341405750977305,
+    0.11892394349580553,
+    0.09800060128789514
+  ]
+}
